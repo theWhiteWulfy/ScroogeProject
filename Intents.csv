@@ -1,0 +1,101 @@
+Mobile Recharge bill,Bills
+Electricity bill,Bills
+Water Bill,Bills
+DTH service bill,Bills
+mobile Recharge,Bills
+Footwear,clothing
+Boys wear,clothing
+Men's wear,clothing
+women's wear,clothing
+Girls wear,clothing
+child wear,clothing
+Watches,clothing
+Bags and Luggage,clothing
+Jewellry\,clothing
+want to pay college_fee (),Education
+want to pay tuition_fee (),Education
+want to pay EntrancExam_fee (),Education
+want to pay Fine (),Education
+want to pay university_fee (),Education
+Event (),Entertainment
+Movie (),Entertainment
+Sports (),Entertainment
+Exercise_and_Fitness,Family_and_Personal
+Bodycare,Family_and_Personal
+Lotions,Family_and_Personal
+Gaming Accessories,Family_and_Personal
+Furniture,Family_and_Personal
+chicken (),food_and_drinks
+pay for food (),food_and_drinks
+snacks (),food_and_drinks
+Soft_Drinks (),food_and_drinks
+Lemonade (),food_and_drinks
+Iced_Tea (),food_and_drinks
+Sierra Mist (),food_and_drinks
+Hard Drink (),food_and_drinks
+Birthday,Gifts
+Party,Gifts
+Anniversary,Gifts
+Wedding,Gifts
+Return Gifts,Gifts
+see ya,Goodbyes
+ttyl,Goodbyes
+Farewell,Goodbyes
+goodbye,Goodbyes
+I'm off,Goodbyes
+I'm out,Goodbyes
+talk to you later,Goodbyes
+hello,Goodbyes
+Welcome!,Greetings
+Nice to see you again.,Greetings
+How may I help you.,Greetings
+Do you want to add something?,Greetings
+Hello...!,Greetings
+Hi,hello
+Hello,hello
+Heya,hello
+hey there,hello
+Vehicle Loan (),Loan
+Education Loan (),Loan
+Gold Loan (),Loan
+Agricultural Loan (),Loan
+Loan against Insurance policies (),Loan
+Home Loan (),Loan
+Loan against bank FDs (),Loan
+Personal Loan (),Loan
+Milk,Reminder
+Vegetable,Reminder
+Monthly gas,Reminder
+Mobile Recharge,Reminder
+Exercise-time,Reminder
+electricity bills,Reminder
+DTH service recharge,Reminder
+water bill,Reminder
+it's time for (),Run-Reminder
+time to get (),Run-Reminder
+time to pay (),Run-Reminder
+i got a discount (x),setcoupons
+lucky draw (x),setcoupons
+coupons (x),setcoupons
+discount (x),setcoupons
+earned coupons,setcoupons
+got vouchers,setcoupons
+(x) discout on,setcoupons
+i got a cashback (x),setcoupons
+won a lucky draw,setcoupons
+interest from banks (x),setfunds
+provident fund (x),setfunds
+bank interest (x),setfunds
+invested (x) in (x),setfunds
+my salary is (x),setIncome
+i got a allowances (x),setIncome
+i got a gift of (x),setIncome
+allowance (x),setIncome
+earning is (x),setIncome
+i bought shares (x),setmarketincome
+money from property transaction (x),setmarketincome
+i have earned (x),setmarketincome
+I got a profit from stock market (x),setmarketincome
+Set Reminder(),Set-Reminder
+want to travel (),Travel
+want to visit (),Travel
