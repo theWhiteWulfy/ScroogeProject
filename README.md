@@ -1,0 +1,2 @@
+# ScroogeProject
+IPECHackathon
