@@ -1,0 +1,17 @@
+{
+  "DB_URL": "mongodb://user1:userone@ds125994.mlab.com:25994/scroogestore",
+  "DB_COLLECTION": "expenses",
+  "BOT_TOKEN": "403801453:AAGovR1mIgniEkmB1IN4UD10Nzs2XPMRXo0",
+  "BOT_NAME": "ScroogeProject",
+  "BOT_TELEGRAM_USERNAME": "@ScroogeProjectbot", 
+  "COMMANDS": {
+    "NEW": "/new",
+    "LIST": "/list",
+    "GET": "/get",
+    "HELP": "/help",
+    "RESET": "/reset"
+  },
+  "RECOVER_FILE": "recover.json",
+  "MONTHS": {"January": 0, "February": 1, "March": 2, "April": 3, "May": 4, "June": 5, "July": 6, "August": 7, "September": 8, "October": 9, "November": 10, "December": 11},
+  "WEEKDAYS": {"Sunday": 0, "Monday": 1, "Tuesday": 2, "Wednesday": 3, "Thursday": 4, "Friday": 5, "Saturday": 6}
+}

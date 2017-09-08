@@ -1,0 +1,28 @@
+{
+  "name": "ScroogeProjectbot",
+  "version": "0.0.1",
+  "description": "A bot that helps you manage and track your daily expenses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "homepage": "https://1b9d9cf4.ngrok.io",
+  "author": {
+    "name": "IEC",
+    "url": "https://alokprateek.ml"
+  },
+  "license": "MIT",
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs"
+  ],
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.31",
+    "telegram-bot-sdk": "0.0.1",
+    "unirest": "^0.4.2"
+  }
+}
