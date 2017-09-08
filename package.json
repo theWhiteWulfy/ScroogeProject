@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "homepage": "https://1b9d9cf4.ngrok.io",
+  "homepage": "https://api.starter-ca-central-1.openshift.com/oapi/v1/namespaces/scroogeproject/buildconfigs/scroogeproject/webhooks/65b804249594b7c4/github",
   "author": {
     "name": "IEC",
-    "url": "https://alokprateek.ml"
+    "url": "https://scrooge.alokprateek.ml"
   },
   "license": "MIT",
   "keywords": [
